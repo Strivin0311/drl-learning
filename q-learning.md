@@ -108,6 +108,9 @@ citation:
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/10295/10154)
 
+
+here's a [notebook](./notebooks/DQN_Pong.ipynb) about the DQN algorithm and its variants like Doulbe-DQN, Dueling-DQN, etc on the PingPong task in gym
+
 citation: 
 ```bibtex
 @inproceedings{van2016deep,
@@ -122,7 +125,7 @@ citation:
 
 #### Prioritized experience replay [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/1511.05952.pdf))
+paper link: [here](https://arxiv.org/pdf/1511.05952.pdf)
 
 citation: 
 ```bibtex
@@ -138,6 +141,11 @@ citation:
 #### Human-level control through deep reinforcement learning [`READ`]
 
 paper link: [here](https://training.incf.org/sites/default/files/2023-05/Human-level%20control%20through%20deep%20reinforcement%20learning.pdf)
+
+
+here's a [notebook](./notebooks/REINFORCE_CartPole.ipynb) about the REINFORCE algorithm on the CartPole task in gym
+
+here's a [notebook](./notebooks/CEM_CartPole.ipynb) about the CEM algorithm on the CartPole task in gym
 
 citation: 
 ```bibtex
@@ -157,6 +165,9 @@ citation:
 #### Playing atari with deep reinforcement learning [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1312.5602.pdf)
+
+here's a [notebook](./notebooks/TabQL_FrozenLake.ipynb) about the original Q-table learning on the FrozenLake task in gym
+
 
 citation: 
 ```bibtex
