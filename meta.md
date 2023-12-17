@@ -2,19 +2,17 @@
 *Here's some resources about Meta RL*
 
 
-#### RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
+#### Multi-Agent Meta-Reinforcement Learning: Sharper Convergence Rates with Task Similarity [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2311.01455.pdf)
+paper link: [here](https://haoran-qiu.com/pdf/neurips23.pdf)
 
-citation:
+citation: 
 ```bibtex
-@misc{wang2023robogen,
-      title={RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation}, 
-      author={Yufei Wang and Zhou Xian and Feng Chen and Tsun-Hsuan Wang and Yian Wang and Katerina Fragkiadaki and Zackory Erickson and David Held and Chuang Gan},
-      year={2023},
-      eprint={2311.01455},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@inproceedings{mao2023multi,
+  title={Multi-Agent Meta-Reinforcement Learning: Sharper Convergence Rates with Task Similarity},
+  author={Mao, Weichao and Qiu, Haoran and Wang, Chen and Franke, Hubertus and Kalbarczyk, Zbigniew and Iyer, Ravi and Basar, Tamer},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
 }
 ```
 

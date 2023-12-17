@@ -2,6 +2,22 @@
 *Here's some resources about Policy-Gradient based RL*
 
 
+#### Connected Superlevel Set in (Deep) Reinforcement Learning and its Application to Minimax Theorems [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2303.12981)
+
+citation: 
+```bibtex
+@article{zeng2023connected,
+  title={Connected Superlevel Set in (Deep) Reinforcement Learning and its Application to Minimax Theorems},
+  author={Zeng, Sihan and Doan, Thinh T and Romberg, Justin},
+  journal={arXiv preprint arXiv:2303.12981},
+  year={2023}
+}
+```
+    
+
+
 #### Simple random search provides a competitive approach to reinforcement learning [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1803.07055.pdf)

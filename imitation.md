@@ -2,6 +2,21 @@
 *Here's some resources about Imitation Learning*
 
 
+#### Thought Cloning: Learning to Think while Acting by Imitating Human Thinking [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.00323)
+
+citation: 
+```bibtex
+@article{hu2023thought,
+  title={Thought Cloning: Learning to Think while Acting by Imitating Human Thinking},
+  author={Hu, Shengran and Clune, Jeff},
+  journal={arXiv preprint arXiv:2306.00323},
+  year={2023}
+}
+```
+    
+
 
 #### Imitating human behaviour with diffusion models [`UNREAD`]
 

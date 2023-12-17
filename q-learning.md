@@ -2,6 +2,21 @@
 *Here's some resources about Q-Learning based RL*
 
 
+#### Double Gumbel Q-Learning ['UNREAD']
+
+paper link: [here](https://openreview.net/pdf?id=UdaTyy0BNB)
+
+citation: 
+```bibtex
+@inproceedings{hui2023double,
+  title={Double Gumbel Q-Learning},
+  author={Hui, David Yu-Tung and Courville, Aaron and Bacon, Pierre-Luc},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
+
+
 
 #### Rainbow: Combining improvements in deep reinforcement learning [`READ`]
 
