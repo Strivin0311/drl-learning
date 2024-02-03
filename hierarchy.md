@@ -1,5 +1,5 @@
 # Hierarchy RL
-*Here's some resources about Hierarchy RL*
+*Here're some resources about Hierarchy RL*
 
 
 

@@ -1,5 +1,5 @@
 # Policy-Gradient based RL
-*Here's some resources about Policy-Gradient based RL*
+*Here're some resources about Policy-Gradient based RL*
 
 
 #### Connected Superlevel Set in (Deep) Reinforcement Learning and its Application to Minimax Theorems [`UNREAD`]

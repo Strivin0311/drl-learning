@@ -1,5 +1,5 @@
 # Q-Learning based RL
-*Here's some resources about Q-Learning based RL*
+*Here're some resources about Q-Learning based RL*
 
 
 #### Double Gumbel Q-Learning ['UNREAD']

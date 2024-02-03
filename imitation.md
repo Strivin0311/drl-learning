@@ -1,5 +1,5 @@
 # Imitation Learning
-*Here's some resources about Imitation Learning*
+*Here're some resources about Imitation Learning*
 
 
 #### Thought Cloning: Learning to Think while Acting by Imitating Human Thinking [`UNREAD`]

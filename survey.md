@@ -1,5 +1,5 @@
 # Survey of RL
-*Here's some resources about Survey of RL*
+*Here're some resources about Survey of RL*
 
 
 ## Textbook

@@ -1,5 +1,5 @@
 # Model-based RL
-*Here's some resources about Model-based RL*
+*Here're some resources about Model-based RL*
 
 
 

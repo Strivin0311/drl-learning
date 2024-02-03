@@ -1,5 +1,5 @@
 # World Model
-*Here's some resources about World Model*
+*Here're some resources about World Model*
 
 
 #### Language Models Meet World Models: Embodied Experiences Enhance Language Models [`UNREAD`]

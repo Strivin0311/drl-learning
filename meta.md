@@ -1,5 +1,5 @@
 # Meta RL
-*Here's some resources about Meta RL*
+*Here're some resources about Meta RL*
 
 
 #### Multi-Agent Meta-Reinforcement Learning: Sharper Convergence Rates with Task Similarity [`UNREAD`]

@@ -1,5 +1,5 @@
 # Monte-Carlo Tree Search
-*Here's some resources about Monte-Carlo Tree Search*
+*Here're some resources about Monte-Carlo Tree Search*
 
 
 #### Memory-augmented monte carlo tree search [`UNREAD`]
@@ -70,7 +70,7 @@ citation:
 
 ### Alpha
 
-*Here's some resources about Alpha, including Alpha Go, Alpha Master, etc*
+*Here're some resources about Alpha, including Alpha Go, Alpha Master, etc*
 
 
 #### Mastering chess and shogi by self-play with a general reinforcement learning algorithm [`READ`]

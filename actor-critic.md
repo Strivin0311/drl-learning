@@ -1,5 +1,5 @@
 # Actor-Critic based RL
-*Here's some resources about Actor-Critic based RL*
+*Here're some resources about Actor-Critic based RL*
 
 
 #### Soft actor-critic for discrete action settings [`UNREAD`]
